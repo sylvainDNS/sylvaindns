@@ -5,8 +5,7 @@
 
 ### 🪄 I'm a Self-Hosted Enthusiast Developer!
 
-- 🔭 I'm currently studying peer-to-peer with WebRTC for a futur side project.
-- 🌱 I’m currently learning [Elm <img alt="Elm" width="16px" src="https://raw.githubusercontent.com/github/explore/bc74dc5f9d530003dcd057b7b73c12fbcc4484ed/topics/elm/elm.png" />](https://elm-lang.org/)
+- 🔭 I'm currently focusing on accessibility.
 - 👯 I'm looking for a new job, feel free to contact me 😊
 - 🎯 2021 Goals: Give courses to pass on my knowledge
 - ⚡ Fun fact: I was a stuntman and I love rock climbing!
