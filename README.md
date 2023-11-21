@@ -6,8 +6,7 @@
 ### 🪄 I'm a Self-Hosted Enthusiast Developer!
 
 - 🔭 I'm currently focusing on accessibility.
-- 👯 I'm looking for a new job, feel free to contact me 😊
-- 🎯 2021 Goals: Give courses to pass on my knowledge
+- 🎯 2023 Goals: Release
 - ⚡ Fun fact: I was a stuntman and I love rock climbing!
 
 ### 🔎 Connect with me:
@@ -50,7 +49,6 @@
 - [Hubert Sablonnière](https://www.hsablonniere.com/) - A CSS Superstar
 - [Eric Elliott](https://medium.com/@_ericelliott) - The JS Master
 - [Stéphane Bortzmeyer](https://www.bortzmeyer.org/) - Explanation of RFCs
-- [Quentin Adam](https://twitter.com/waxzce) - The Best conf speaker
 - [Message à caractère informatique](https://www.clever-cloud.com/fr/podcast/) - Ops podcast
 - [Pony Foo Weekly](https://ponyfoo.com/weekly/history) - The (almost) weekly of the JS ecosystem
 
@@ -61,8 +59,6 @@
 <br />
 
 ### 🎖 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=sylvaindns&show_icons=true&count_private=true" alt="GitHub Stats Card"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylvaindns&layout=compact&exclude_repo=wishCreator,installations-pdl-perso" alt="GitHub Top Languages"/>
 
